@@ -3,7 +3,7 @@
 Site institucional da ScaleSync — empresa focada em crescimento digital através de tráfego pago, automação e análise de dados.
 
 ## 🌐 Acesse o site
-https://seuusuario.github.io/scalesync-site/
+https://camillaalvess.github.io/scalesync-site/
 
 ## 💼 Serviços
 
