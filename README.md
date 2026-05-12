@@ -22,6 +22,7 @@ https://camillaalvess.github.io/scalesync-site/
 
 - HTML5
 - CSS3
+- JavaScript
 
 ## 📲 Contato
 
